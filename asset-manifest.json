@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MultiStepForm/static/css/main.4af1163d.css",
-    "main.js": "/MultiStepForm/static/js/main.848e6396.js",
+    "main.js": "/MultiStepForm/static/js/main.c06c8300.js",
     "static/js/787.7af4b02a.chunk.js": "/MultiStepForm/static/js/787.7af4b02a.chunk.js",
     "static/media/bg-sidebar-desktop.svg": "/MultiStepForm/static/media/bg-sidebar-desktop.6918153f38678372ceb14496fda9664c.svg",
     "static/media/bg-sidebar-mobile.svg": "/MultiStepForm/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a9f96479b9c1a.svg",
@@ -11,11 +11,11 @@
     "static/media/icon-pro.svg": "/MultiStepForm/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
     "static/media/icon-arcade.svg": "/MultiStepForm/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
     "main.4af1163d.css.map": "/MultiStepForm/static/css/main.4af1163d.css.map",
-    "main.848e6396.js.map": "/MultiStepForm/static/js/main.848e6396.js.map",
+    "main.c06c8300.js.map": "/MultiStepForm/static/js/main.c06c8300.js.map",
     "787.7af4b02a.chunk.js.map": "/MultiStepForm/static/js/787.7af4b02a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4af1163d.css",
-    "static/js/main.848e6396.js"
+    "static/js/main.c06c8300.js"
   ]
 }
